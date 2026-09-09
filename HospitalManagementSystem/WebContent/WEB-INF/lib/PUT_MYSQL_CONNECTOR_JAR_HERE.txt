@@ -1,6 +1,0 @@
-Download "mysql-connector-j-<version>.jar" (MySQL Connector/J) and place the .jar
-file directly in this WEB-INF/lib folder. In Eclipse, right click the project ->
-Refresh, then it will automatically be added to the deployment assembly / build path.
-
-Recommended: mysql-connector-j-8.4.0.jar or newer, from:
-https://dev.mysql.com/downloads/connector/j/
