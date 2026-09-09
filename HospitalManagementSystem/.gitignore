@@ -1,0 +1,52 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+build/
+target/
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# VS Code files
+.vscode/
+
+# Maven wrapper (optional)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Tomcat
+Servers/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
